@@ -10,9 +10,14 @@ By sending this keyword, you consent to receive automated quote messages from th
 You can stop receiving messages at any time by replying **STOP**.  
 Reply **HELP** for more information.
 
-## Privacy
-Your phone number is only used to send the requested quotes.  
-It is not stored, shared, or used for any other purpose.
+## Privacy Policy
+
+This Quotes app is a personal hobby project.  
+- Your phone number is only used to send the SMS messages you request.  
+- No personal data is stored, sold, or shared with third parties.  
+- You can opt out at any time by replying STOP to the above toll-free number.  
+- By texting the opt-in keyword (QUOTE), you consent to receive automated reply messages from this service.  
+
 
 ## Sample Messages
 - “Thanks for subscribing to the Quotes Bot! Reply STOP to unsubscribe.”  
